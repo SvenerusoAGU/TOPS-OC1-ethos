@@ -5,22 +5,13 @@ This template repository provides a base folder structure, and sample files cont
 
 The OpenCore is part of the TOPS mission Area 2: Capacity Sharing. In the first phase, the project is deploying a scalable learning platform, and five learning modules:
 
-1. Ethos of Open Science
+1. Ethos of Open Science <-- This module
 2. Tools and Resources
 3. Open Data
 4. Open Software
 5. Open Results
 
-Course curriculum leads will get a link to make a new repository under the GitHub organization [learnopenscience](http://github.com/learnopenscience) with the contents of this template reproduced, and admin permissions granted automatically. 
-
 Next actions:
-
-- change the repository name to the module identifier as follows: 
-  - TOPS-OC1-ethos
-  - TOPS-OC2-tools
-  - TOPS-OC3-data
-  - TOPS-OC4-code
-  - TOPS-OC5-results
 
 - add contributors (subject matter experts) as collaborators
 - begin replacing the sample content in with your own
