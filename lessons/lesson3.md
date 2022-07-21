@@ -1,33 +1,35 @@
-# Introduction
+# Lesson 3: WHO: Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
 
-# Who performs and benefits from open science? Stakeholders partaking in open science
+## Introduction
 
-## Researchers
+## Who performs and benefits from open science? Stakeholders partaking in open science
 
-## Public
+### Researchers
 
-## Policy-makers
+### Public
 
-# How each group contributes to Open Science
+### Policy-makers
 
-## Case scenarios
+## How each group contributes to Open Science
 
-### Case Scenario #1:  Trend: Public  —> Policy-makers
+### Case scenarios
 
-### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
+#### Case Scenario #1:  Trend: Public  —> Policy-makers
 
-### Case Scenario #3: Participate: Public —> Researchers
+#### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
 
-### Case Scenario #4: Share:  Researchers —> Policy-makers/Public
+#### Case Scenario #3: Participate: Public —> Researchers
 
-## How diverse stakeholders are included in open science
+#### Case Scenario #4: Share:  Researchers —> Policy-makers/Public
 
-### Activity/exercise
+### How diverse stakeholders are included in open science
 
-#### Case Scenario #1: Accessible figures and writing
+#### Activity/exercise
 
-#### Case Scenario #2: Organizing an inclusive physical event
+##### Case Scenario #1: Accessible figures and writing
 
-#### Case Scenario #3: Organizing an inclusive virtual meeting and preparing in advance
+##### Case Scenario #2: Organizing an inclusive physical event
 
-# Summary
+##### Case Scenario #3: Organizing an inclusive virtual meeting and preparing in advance
+
+## Summary
