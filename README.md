@@ -13,16 +13,18 @@ The OpenCore is part of the TOPS mission Area 2: Capacity Sharing. In the first 
 
 Next actions:
 
-- add contributors (subject matter experts) as collaborators
-- begin replacing the sample content in with your own
-
-You can create more files to add more sections to the module. Use one file per section, beginning with a top heading (using `#`), and add sub-headings (with `##` and `###`) as needed. These will be used automatically to build the table of contents.
+- 
 
 ---
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
-Prepared by Lorena A. Barba (2022) for the AGU TOPS project.
+
+## Contributors 
+
+- Template prepared by Lorena A. Barba (2022) for the AGU TOPS project.
+- Subject matter experts: @marimeireles, @Ismael-KG, Tomoko Bell, Stephen Klusza, Miguel Silan, Shamsuddeen Muhammad, Amber Osman 
+- Subject matter editor: Mayya Sundukova
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
