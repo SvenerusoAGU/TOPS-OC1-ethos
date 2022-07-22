@@ -1,4 +1,4 @@
-# Lesson 5: HOW: Open Science resources & tools: How to get started in responsible Open Science (doing open science responsibly)
+# Lesson 5: Open Science resources & tools: How to get started in responsible Open Science
 
 ## Introduction
 
