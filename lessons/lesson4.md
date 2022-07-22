@@ -1,4 +1,4 @@
-# Lesson 4: WHERE: Impact of Open Science on academia,  communities and society as a whole: Where open science happens
+# Lesson 4. Impact of Open Science on academia, communities and society as a whole: Where open science happens
 
 ## Introduction
 
