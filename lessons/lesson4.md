@@ -10,7 +10,7 @@
 
 ### South African case: Protection of Personal Information Act (POPI Act) and Open Science
 
-### United States case
+### United States case: state legislation
 
 ### Summary: Working in a global society with varied data protection laws
 
