@@ -1,4 +1,4 @@
-# Lesson 2: WHY: Benefits and Challenges of Responsible Open Science - Why does it matter?
+# Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?
 
 ## Introduction
 
