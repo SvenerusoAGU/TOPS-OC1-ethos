@@ -1,4 +1,4 @@
-# Lesson 3: WHO: Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
+# Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
 
 ## Introduction
 
