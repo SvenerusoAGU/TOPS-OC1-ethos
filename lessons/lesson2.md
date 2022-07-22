@@ -6,7 +6,7 @@
 
 ### Quality of research
 
-### Quality and diversity of scholarly communications
+### Quality of scholarly communications
 
 ### Response to societal challenges
 
