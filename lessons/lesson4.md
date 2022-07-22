@@ -6,7 +6,7 @@
 
 ### Data protection, privacy, and data sovereignty
 
-### European case: General Data Protection regulation
+### European case: the General Data Protection Regulation
 
 ### South African case: Protection of Personal Information Act (POPI Act) and Open Science
 
