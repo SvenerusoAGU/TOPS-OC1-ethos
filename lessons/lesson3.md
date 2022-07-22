@@ -14,7 +14,7 @@
 
 ### Case scenarios
 
-#### Case Scenario #1:  Trend: Public  —> Policy-makers
+#### Case Scenario #1:  Trend: Public —> Policy-makers
 
 #### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
 
