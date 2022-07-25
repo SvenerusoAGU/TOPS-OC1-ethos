@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Lesson 1: using Markdown &#8212; TOPS Core Curriculum</title>
+    <title>Lesson 1. Intro to Open Science: What is it and what does it promote? &#8212; TOPS Core Curriculum</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -52,7 +52,7 @@ const thebe_selector_output = ".output, .cell_output"
     <script async="async" src="_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Lesson 2: using Jupyter notebooks" href="lesson2.html" />
+    <link rel="next" title="Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?" href="lesson2.html" />
     <link rel="prev" title="Learning Objectives" href="learningobjectives.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
@@ -121,22 +121,22 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   Lesson 1: using Markdown
+   Lesson 1. Intro to Open Science: What is it and what does it promote?
   </a>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="lesson2.html">
-   Lesson 2: using Jupyter notebooks
+   Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?
   </a>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="lesson3.html">
-   Lesson 3: Anatomy of a module
+   Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
   </a>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="lesson4.html">
-   Lesson 4: Self checks, assessments, and activities
+   Lesson 4. Impact of Open Science on academia, communities and society as a whole: Where open science happens
   </a>
  </li>
  <li class="toctree-l1">
@@ -339,13 +339,43 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#citations">
-   Citations
+  <a class="reference internal nav-link" href="#context-and-definition">
+   Context and Definition
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#definitions-of-open-science-and-responsible-open-science">
+   Definitions of Open Science and Responsible Open Science
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#open-science-aspects">
+   Open Science aspects
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#there-is-no-one-ethos">
+   There is no one ethos
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#performing-open-science-responsibly">
+   Performing open science responsibly
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#summary">
+   Summary
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#further-reading">
+   Further Reading
   </a>
  </li>
 </ul>
@@ -357,7 +387,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Lesson 1: using Markdown</h1>
+                <h1>Lesson 1. Intro to Open Science: What is it and what does it promote?</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -368,13 +398,43 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#what-is-myst">
-   What is MyST?
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
   </a>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#citations">
-   Citations
+  <a class="reference internal nav-link" href="#context-and-definition">
+   Context and Definition
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#definitions-of-open-science-and-responsible-open-science">
+   Definitions of Open Science and Responsible Open Science
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#open-science-aspects">
+   Open Science aspects
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#there-is-no-one-ethos">
+   There is no one ethos
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#performing-open-science-responsibly">
+   Performing open science responsibly
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#summary">
+   Summary
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#further-reading">
+   Further Reading
   </a>
  </li>
 </ul>
@@ -387,41 +447,31 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="lesson-1-using-markdown">
-<h1>Lesson 1: using Markdown<a class="headerlink" href="#lesson-1-using-markdown" title="Permalink to this headline">#</a></h1>
-<p>In the module template, we use the <code class="docutils literal notranslate"><span class="pre">lesson1.md</span></code> file as a sample lesson, and introduce you to the flavor of Markdown that you will use to write the content, called <strong>MyST Markdown</strong>.</p>
-<p>Whether you write module content content in Jupyter Notebooks (<code class="docutils literal notranslate"><span class="pre">.ipynb</span></code>) or
-in regular markdown files (<code class="docutils literal notranslate"><span class="pre">.md</span></code>), you’ll write in the same flavor of Markdown.
-This file shows some example syntax.</p>
-<section id="what-is-myst">
-<h2>What is MyST?<a class="headerlink" href="#what-is-myst" title="Permalink to this headline">#</a></h2>
-<p>MyST stands for “Markedly Structured Text”. It
-is a variation on so-called “CommonMark” markdown,
-with some syntax extensions to allow you to write <strong>roles</strong> and <strong>directives</strong>.
-These offer customization and styling for the final content.
-For example, you can use a directive to get a nicely formatted <em>Note</em>  box in the final document like this:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{note}
-Here is a note
-```
-</pre></div>
-</div>
-<p>Other directives can produce styled boxes for: <em>Warning</em>, <em>Caution</em>, <em>See also</em>, and <em>Tip</em>.</p>
-<p>Roles are like in-line commands, for example to introduce citations (see below) or internal links to other parts of the lessons. If you know LaTeX, you can think of directives as environments and roles as macros.</p>
-<div class="admonition seealso">
-<p class="admonition-title">See also</p>
-<p>Learn more about MyST by exploring the JupyterBook documentation: <a class="reference external" href="https://jupyterbook.org/content/myst.html">MyST Markdown Overview</a>.</p>
-</div>
+  <section class="tex2jax_ignore mathjax_ignore" id="lesson-1-intro-to-open-science-what-is-it-and-what-does-it-promote">
+<h1>Lesson 1. Intro to Open Science: What is it and what does it promote?<a class="headerlink" href="#lesson-1-intro-to-open-science-what-is-it-and-what-does-it-promote" title="Permalink to this headline">#</a></h1>
+<section id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Permalink to this headline">#</a></h2>
 </section>
-<section id="citations">
-<h2>Citations<a class="headerlink" href="#citations" title="Permalink to this headline">#</a></h2>
-<p>You can cite references from a <code class="docutils literal notranslate"><span class="pre">bibtex</span></code> file using <code class="docutils literal notranslate"><span class="pre">{cite}</span></code> roles. Several in-line citation styles are possible.
-See the variations in the JupyterBook documentation: <a class="reference external" href="https://jupyterbook.org/en/stable/content/citations.html#change-the-in-line-citation-style">Change the in-line citation style</a>.</p>
-<p>To insert a bibliography into your page, you will use the <code class="docutils literal notranslate"><span class="pre">{bibliography}</span></code> directive. For example, if the references for your module are stored in <code class="docutils literal notranslate"><span class="pre">references.bib</span></code>, you indicate this file name in the <code class="docutils literal notranslate"><span class="pre">_config.yml</span></code> and
-then insert the bibliography with:</p>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>```{bibliography}
-```
-</pre></div>
-</div>
+<section id="context-and-definition">
+<h2>Context and Definition<a class="headerlink" href="#context-and-definition" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="definitions-of-open-science-and-responsible-open-science">
+<h2>Definitions of Open Science and Responsible Open Science<a class="headerlink" href="#definitions-of-open-science-and-responsible-open-science" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="open-science-aspects">
+<h2>Open Science aspects<a class="headerlink" href="#open-science-aspects" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="there-is-no-one-ethos">
+<h2>There is no one ethos<a class="headerlink" href="#there-is-no-one-ethos" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="performing-open-science-responsibly">
+<h2>Performing open science responsibly<a class="headerlink" href="#performing-open-science-responsibly" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="summary">
+<h2>Summary<a class="headerlink" href="#summary" title="Permalink to this headline">#</a></h2>
+</section>
+<section id="further-reading">
+<h2>Further Reading<a class="headerlink" href="#further-reading" title="Permalink to this headline">#</a></h2>
 </section>
 </section>
 
@@ -462,7 +512,7 @@ then insert the bibliography with:</p>
     <a class='right-next' id="next-link" href="lesson2.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Lesson 2: using Jupyter notebooks</p>
+        <p class="prev-next-title">Lesson 2. Benefits and Challenges of Responsible Open Science: Why does it matter?</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>
