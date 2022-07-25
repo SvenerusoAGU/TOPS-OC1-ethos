@@ -1,19 +1,22 @@
 [![CC BY 4.0][cc-by-shield]][cc-by] 
-# Template for TOPS modules
 
-This template repository provides a base folder structure, and sample files containing some guidance to help us achieve consistency across the different modules of the TOPS OpenCore curriculum.
+# Ethos of Open Science
 
-The OpenCore is part of the TOPS mission Area 2: Capacity Sharing. In the first phase, the project is deploying a scalable learning platform, and five learning modules:
+By the end of this module, learners will be familiar with the definitions central to open science and have explored some concrete examples of the benefits of open science principles and community. The course will include best practices for building open science communities, increasing collaboration, and introducing open principles to project design, as well as an overview of open science norms. This module will also explore the historical impact of “closed” science, and how open science seeks to create a more diverse and equitable scientific community.
 
-1. Ethos of Open Science <-- This module
-2. Tools and Resources
-3. Open Data
-4. Open Software
-5. Open Results
+[Objectives for Ethos of Open Science](lessons/learningobjectives.md) 
 
-Next actions:
+## Lession for Open Science
 
-- 
+The full list of objectives and lessons can be found in teh [lessons directory](lessons/).   The Ethos of Open Science module has the following lessons: 
+
+* Lesson 1. [Intro to Open Science: What is it and what does it promote?](lessons/lesson1.md)
+* Lesson 2. [Benefits and Challenges of Responsible Open Science: Why does it matter?](lessons/lessons2.md)
+* Lesson 3. [Stakeholders of Open Science: Who practices Responsible Open Science and for whom?](lessons/lessons3.md)
+* Lesson 4. [Impact of Open Science on academia, communities and society as a whole: Where open science happens](lessons/lessons4.md)
+* Lesson 5. [Open Science resources & tools: How to get started in responsible Open Science](lessons/lessons5.md)
+
+
 
 ---
 
