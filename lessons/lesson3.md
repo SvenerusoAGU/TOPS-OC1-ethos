@@ -1,27 +1,35 @@
-# Lesson 3: Anatomy of a module
+# Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
 
-Each module has an introduction (in the `intro.md` file), learning objectives, written lessons, references, videos and knowledge checks and assessments. 
-Use this template repository to fill in the written content. 
+## Introduction
 
-Suppose the module has 5 lessons, each designed for 30 minutes of learning time. There are 4,500 words in a 30-minute speech, so you might use that as an upper bound for the written content of each lesson. It should be shorter than that when you add a short video and an assessment or activity.
+## Who performs and benefits from open science? Stakeholders partaking in open science
 
-Here is one possible lesson structure (with 5 lessons per module):
+### Researchers
 
-- 2,500 to 3,000 words of written content
-- 5-min video
-- 5 minutes estimated time in a recall activity
+### Public
 
-In this case, you will want to use plenty of sub-headings to chunk the written material. Another option is to have more, shorter lessons.
-For example:
+### Policy-makers
 
-- 8 lessons of 15 minutes reading time each
-- five 3-min videos
-- 15 minutes in estimated time for recall activities
+## How each group contributes to Open Science
 
-## Video
+### Case scenarios
 
-The use of video can be sparse, but it is effective for giving the pig picture, creating a human connection with learners, and helping to keep them on track.
+#### Case Scenario #1:  Trend: Public —> Policy-makers
 
-What is important is that video should be included deliberately in support of the learning objectives. The advice in ["Using Video in Online Classes"](https://canvas.ucdavis.edu/courses/34528/pages/using-video-in-online-classes) in the Indiana University course on teaching online is very good.
+#### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
 
-After you have a design for the module structure (number of lessons and length), and a first draft, begin to think where a video could be helpful. The TOPS Curriculum team will work with you to define scope and format for any videos. When the time comes to record them, you'll have professional production support.
+#### Case Scenario #3: Participate: Public —> Researchers
+
+#### Case Scenario #4: Share:  Researchers —> Policy-makers/Public
+
+### How diverse stakeholders are included in open science
+
+#### Activity/exercise
+
+##### Case Scenario #1: Accessible figures and writing
+
+##### Case Scenario #2: Organizing an inclusive physical event
+
+##### Case Scenario #3: Organizing an inclusive virtual meeting and preparing in advance
+
+## Summary
