@@ -6,9 +6,9 @@ By the end of this module, learners will be familiar with the definitions centra
 
 [Objectives for Ethos of Open Science](lessons/learningobjectives.md) 
 
-## Lession for Open Science
+## Lesson for Open Science
 
-The full list of objectives and lessons can be found in teh [lessons directory](lessons/).   The Ethos of Open Science module has the following lessons: 
+The full list of objectives and lessons can be found in the [lessons directory](lessons/).   The Ethos of Open Science module has the following lessons: 
 
 * Lesson 1. [Intro to Open Science: What is it and what does it promote?](lessons/lesson1.md)
 * Lesson 2. [Benefits and Challenges of Responsible Open Science: Why does it matter?](lessons/lessons2.md)
