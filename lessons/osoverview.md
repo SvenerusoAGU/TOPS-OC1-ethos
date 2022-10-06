@@ -17,3 +17,8 @@ Open facilities and materials include telescopes, computing centers, museums (sa
 Open Science isn’t limited to research outputs and tools; **Open results** are essential to the transparent sharing of research and encompass the use of preprints to broadly share research outputs, from all stages of the research workflow, the publication of research in open access journals, and other sharing mechanisms that encourage open collaboration and broad attribution. 
 **Open communities** are communities of practitioners that foster collaborative working environments, beyond disciplinary boundaries and professions, and **Community Science** is the co-creation of research by community members and researchers and application of research to help address community needs.
 Open communities and community science both enable and contribute to Open Science through inclusive community practices, supporting transparent and accessible research, and collaborating with the public on science that is relevant and aligned to community needs. **Open Educational Resources** reflect products of Open Science, or contributions to Open Science, related to teaching and learning that are  openly licensed for reuse, repurposing and redistribution. 
+
+`````{admonition} Activity: Open Resource Guide
+:class: tip
+Add content here
+`````
