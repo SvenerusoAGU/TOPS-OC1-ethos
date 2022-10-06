@@ -16,5 +16,11 @@ chapters:
   - file: plan_software
   - file: plan_pub
   - file: plan_reuse
+- file: lesson5
+  sections:
+  - file: inst_barrier
+  - file: unethical
+  - file: legal
+  - file: advocating
 - file: references
 
