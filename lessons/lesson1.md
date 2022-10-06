@@ -82,3 +82,27 @@ The workforce in most scientific disciplines has not been inclusive or welcoming
 
 _Open Science Solution_.  
 Open science practices are intentionally inclusive and support efforts to expand the science workforce.
+
+**Equity:** Open Science is Fair and  Empowering. 
+
+_Challenge_.  
+Globally, the digital differences across regions and continents around  knowledge and technology, and restricted access to results and data have exacerbated inequities in participation and recognition in science.
+
+_Open Science Solution_.  
+Open Science encourages and embraces cross-regional and international collaboration that builds trust and increases novelty. It expands opportunities for credit and recognition. As a result it improves quality, efficacy, and responsiveness in research.
+
+**Reproducibility:** Open Science enables research to be fully evaluated and supports reproducibility.
+
+_Challenge_.  
+Commonly, publications did not provide enough detail about the methods, software, and data for the research to be reproduced. This can potentially lead to errors not being discovered and corrected and the inability to validate results, or build upon that work. 
+
+_Open Science Solution_.  
+Open Science research includes the needed elements for reproducibility, promoting reliability and reuse {cite:p}`national2019reproducibility`. 
+This is an important characteristic in building trust in science.
+
+Open Science today comprises a set of leading practices, indeed a culture, for addressing a variety of challenges encountered by researchers around the world. 
+Collectively these leading practices make knowledge more accessible globally, help researchers practice science more effectively, accelerate science, and provide societal benefits. 
+Because of this collective power, following leading practices can also provide enormous benefits to researchers and research teams, in efficiency and impact of their work.
+Funders, publishers, and institutions are increasingly aligning their policies and requirements around Open Science. 
+Recent studies have even found that the best-performing universities are those that conduct science following open practices (see {cite:t}`huang2020metaresearch`). 
+Following these practices will help you receive funding, improve efficiency, expand your network of collaborators, publish your work, and receive recognition.
