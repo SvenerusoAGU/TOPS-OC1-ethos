@@ -18,7 +18,7 @@ Open Science isn’t limited to research outputs and tools; **Open results** are
 **Open communities** are communities of practitioners that foster collaborative working environments, beyond disciplinary boundaries and professions, and **Community Science** is the co-creation of research by community members and researchers and application of research to help address community needs.
 Open communities and community science both enable and contribute to Open Science through inclusive community practices, supporting transparent and accessible research, and collaborating with the public on science that is relevant and aligned to community needs. **Open Educational Resources** reflect products of Open Science, or contributions to Open Science, related to teaching and learning that are  openly licensed for reuse, repurposing and redistribution. 
 
-`````{admonition} Activity: Open Resource Guide
+`````{admonition} Activity: Open Science Resource Guide
 :class: tip
 Open your Open Science Resource Guide and complete the following questions:
 1. List three reasons for adopting Open Science
