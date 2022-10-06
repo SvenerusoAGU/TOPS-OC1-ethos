@@ -6,6 +6,8 @@ root: intro
 chapters:
 - file: learningobjectives
 - file: lesson1
+  sections:
+  - file: osoverview
 - file: lesson2
 - file: lesson3
 - file: lesson4
