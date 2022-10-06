@@ -1,35 +1,15 @@
-# Lesson 3. Stakeholders of Open Science: Who practices Responsible Open Science and for whom?
+# Lesson 3: The Open Science Ecosystem and Your Role In It
 
-## Introduction
+## The Open Science Ecosystem
 
-## Who performs and benefits from open science? Stakeholders partaking in open science
+```{figure} ../assets/EthosOS_Fig2_Ecosystem.png
+:alt: ecosystem of open science
+:name: ecosystem
+:scale: 50%
+:align: left
+```
 
-### Researchers
-
-### Public
-
-### Policy-makers
-
-## How each group contributes to Open Science
-
-### Case scenarios
-
-#### Case Scenario #1:  Trend: Public —> Policy-makers
-
-#### Case Scenario #2: Officialize: Policy-makers —> Researchers/Public
-
-#### Case Scenario #3: Participate: Public —> Researchers
-
-#### Case Scenario #4: Share:  Researchers —> Policy-makers/Public
-
-### How diverse stakeholders are included in open science
-
-#### Activity/exercise
-
-##### Case Scenario #1: Accessible figures and writing
-
-##### Case Scenario #2: Organizing an inclusive physical event
-
-##### Case Scenario #3: Organizing an inclusive virtual meeting and preparing in advance
-
-## Summary
+Although the Open Science movement began decades ago, in part to provide free access to journal content and organize some key types of data, what is powerful today is that it is becoming optimized to support and indeed foster science and to support more engagement with society and use of science by society. 
+This includes a number of active communities that are working to enable Open Science and help you, and the ability to make and enable new communities. 
+Significant work and improvements are still needed, but the key pieces are in place such that all of the elements of Open Science become self-reinforcing. 
+As a result, Open Science is the future of science. 
