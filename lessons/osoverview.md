@@ -20,5 +20,12 @@ Open communities and community science both enable and contribute to Open Scienc
 
 `````{admonition} Activity: Open Resource Guide
 :class: tip
-Add content here
+Open your Open Science Resource Guide and complete the following questions:
+1. List three reasons for adopting Open Science
+2. How might open science help build trust in your research?   
+3. Answer one or more of the following questions: 
+How might Open Science enhance your practice of science?
+How does Open Science practices align with your values?
+How might Open Science promote better science?
+
 `````
