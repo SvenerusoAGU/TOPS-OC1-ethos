@@ -39,3 +39,46 @@ Data across all scales of investigation in all disciplines has greatly exceeded 
 _Open Science Solution_.  
 Placing scientific data in a repository that supports Open Science and metadata standards allows data to be discovered, connected and analyzed in new ways to solve important scientific questions and provide societal benefits. Additionally, it is easier for researchers  to reuse their own data when it is in standard formats and is documented with community-accepted metadata.
 
+**Publication:** Open Science accelerates science. 
+
+_Challenge_.  
+Traditional publication is a slow process from submission to acceptance to publication. 
+
+_Open Science Solution_.  
+Researchers can share submitted or draft manuscripts as open preprints, and studies have shown that this accelerates science and enhances citations and impact.
+
+**Efficiency:** Open Science reduces waste and unnecessary repetition. 
+
+_Challenge_.  
+Not sharing certain information at all, especially the software and data that supports research, leads to wasted time and effort. 
+
+_Open Science Solution_.  
+Developing software on platforms that support open collaboration by research teams is a widely accepted practice.  It provides key advantages to researchers with opportunity for more rapid improvement and correction. It also widens participation in science.
+
+**Transparency:** Open Science makes science more accessible and reproducible
+
+_Challenge_.  
+Lack of transparency and access to publications and supporting data and code has harmed public support of and engagement with science at a time when science is, and needs to be, more relevant in numerous societal issues. Lack of transparency hinders reproducibility
+
+_Open Science Solution_.  
+Open Science expands transparency around science research outputs. These help provide the public with information needed to understand issues around climate change, improving global health, sustaining the Earth’s environments and ecosystems, and ensuring clean water and food for a growing population. They help researchers reproduce and reliably build on results.  Together these all help engender public trust and support.
+
+**Access:** Open Science enables convergent science and public participation. 
+
+_Challenge_.  
+Accessing scientific results commonly requires costly subscriptions to journals or fees for individual papers. This is a barrier for the public and also for researchers working in cross-disciplinary efforts.
+
+_Open Science Solution_   
+Publishing in open access journals, preprints and other open repositories, and providing open data and software, offers multiple benefits:
+
+1.	Expands usage, coverage, and awareness of research, especially papers that are openly available, in social media and diverse public fora. 
+2.	Enables the convergent science and cross-disciplinary collaborations needed to address future science and societal challenges. 
+3.	Enables community uses of data and results for community science.
+
+**Diversity and Inclusion:** Open science improves participation in science. 
+
+_Challenge_.  
+The workforce in most scientific disciplines has not been inclusive or welcoming for women and minorities. Results have not been shared equitably, and some practices and results have directly harmed or taken advantage of some communities. Implicit biases are increasingly recognized but not fully addressed. 
+
+_Open Science Solution_.  
+Open science practices are intentionally inclusive and support efforts to expand the science workforce.
