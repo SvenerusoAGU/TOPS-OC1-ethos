@@ -16,3 +16,4 @@ If you are new to Open Science, it may be uncomfortable to immediately open up a
 You and your colleagues may want to move more deliberately, using the guidance in these modules, and gain through experience.
 This is understandable.
 However, much of the approaches and practices in the Ethos of Open Science outlined below will improve your work, its impact and accessibility, and your teams’ approach to science regardless and are thus ready for adoption.
+
