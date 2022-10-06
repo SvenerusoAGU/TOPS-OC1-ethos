@@ -12,9 +12,9 @@ chapters:
 - file: lesson3
 - file: lesson4
   sections:
-  - plan_data
-  - plan_software
-  - plan_pub
-  - plan_reuse
+  - file: plan_data
+  - file: plan_software
+  - file: plan_pub
+  - file: plan_reuse
 - file: references
 
