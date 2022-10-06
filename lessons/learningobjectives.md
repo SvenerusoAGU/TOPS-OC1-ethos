@@ -15,5 +15,20 @@ By the end of this module, you will be able to:
 1. Initiate your Open Science practices.
 1. Promote Open Science in your team and with colleagues.
 
-To give you a solid start on practicing Open Science, this module will guide you through customizing an Open Science Resource Guide. Successful completion of this module includes completing this guide based on the prompts in the course and completion of several quizzes  and activities.  If you follow the prompts in the guide, it will help you prepare to implement Open Science in your research.  At the end of the course, you will submit your completed guide on the course site to demonstrate completion of the module.  Filling and submission of the Guide is necessary for completion of the module. You will not be evaluated for its content, but it will help us to improve the course, and help you take the lessons forward in your work.
+To give you a solid start on practicing Open Science, this module will guide you through customizing an **Open Science Resource Guide**. 
+Successful completion of this module includes completing this guide based on the prompts in the course and completion of several quizzes  and activities.  
+If you follow the prompts in the guide, it will help you prepare to implement Open Science in your research.  
+At the end of the course, you will submit your completed guide on the course site to demonstrate completion of the module.  
+Filling and submission of the Guide is necessary for completion of the module. You will not be evaluated for its content, but it will help us to improve the course, and help you take the lessons forward in your work.
 
+`````{admonition} Activity: Open Science Resource Guide
+:class: tip
+**Create a file in your favorite editor, and begin documenting your journey to Open Science**
+In your file, answer the following questions: 
+1. How do you define Open Science?
+2. What is your experience with Open Science?
+3. What are your perceptions of Open Science? 
+4. From your perception now, what are potential impacts of Open Science practices on science in general?
+5. What is your motivation for taking this course?
+
+`````
