@@ -5,7 +5,7 @@
 ```{figure} ../assets/EthosOS_Fig2_Ecosystem.png
 :alt: ecosystem of open science
 :name: ecosystem
-:scale: 50%
+:scale: 30%
 :align: left
 ```
 
