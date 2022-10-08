@@ -35,10 +35,10 @@ These platforms can be made open for your research team only, and then to the pu
 In planning for Open Science when you preserve or publish your scientific results, data, and software you want to:
 
 1.	 select publishing, software, and data platforms that enable the best metadata and linking through the ecosystem.
-  - This supports discovery of your research results by others, ability for them to understand, ability to easily locate supporting or related results.
+    - This supports discovery of your research results by others, ability for them to understand, ability to easily locate supporting or related results.
 2.	provide access to your research results under as open a license as possible.
-  - This supports use of your data and software by others, where you also will receive attribution.  This ensures equitable access to all with no cost. 
+    - This supports use of your data and software by others, where you also will receive attribution.  This ensures equitable access to all with no cost. 
 3.	be inclusive of all authors and contributors.
-  - This supports research teams where all contributions are valuable and recognizes that those that contribute to only one or two of the research results can receive recognition for that work when the results are published separately. 
+    - This supports research teams where all contributions are valuable and recognizes that those that contribute to only one or two of the research results can receive recognition for that work when the results are published separately. 
 4.	ensure research results are connected through citation and use of persistent identifiers.
-  - This supports proper attribution for each research result, accurate linking of related researcher results, and automated attribution  to enable attribution and linking.
+    - This supports proper attribution for each research result, accurate linking of related researcher results, and automated attribution  to enable attribution and linking.
