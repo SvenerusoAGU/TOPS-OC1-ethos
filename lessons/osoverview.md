@@ -4,7 +4,7 @@ Open Science is not limited to a discipline or a particular aspect of scholarly 
 Rather, Open Science is increasingly foundational in every practice of scholarly work. 
 **Open Science includes concrete practices, tangible open assets and actionable values that foster open and inclusive research communities.**
 
-![Open Science Overview](../assets/EthosOS_Fig3V2_overview.png)
+![Open Science Overview](../assets/EthosOS_Fig3V2_overivew.png)
 
 Open Science begins with intentional planning and a commitment to practices that foster **diversity, inclusion and equity** and promote **transparency and accessibility**.  
 **Open data** make data accessible to others to study or to reuse in other pertinent projects. 
