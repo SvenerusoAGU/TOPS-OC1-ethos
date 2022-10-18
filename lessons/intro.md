@@ -13,7 +13,7 @@ The  four skill modules around data, software, results, and tools and resources 
 
 Each of these modules is further empowered and enabled by Open Science communities of practice that can help you. In turn, “community” is embodied in how you build your research team and engage beyond it. Together these concepts form a connected “Open Science ecosystem” that enables Open Science.  As a researcher or research team, you interact and connect with this entire ecosystem.  What is special about this Open Science ecosystem is that these components are interlinked, work together, interact, complement each other, and provide a collective benefit to you and your team.  You (the learner) are going to develop the skills and knowledge to engage with the great variety of Open Science activities by taking this course. Altogether these concepts help form and enable, and are enabled by an Open Science ethos, the focus of the first module, which will also explain these interconnections.  Let’s begin there.
 
-<h2 style= "text-align: center;"> The Ecosystem of Open Science
+<h2 style= "text-align: center;"> The Ecosystem of Open Science</h2>
 
 ![ecosystem](../assets/EthosOS_Fig2_Ecosystem.png)
 
